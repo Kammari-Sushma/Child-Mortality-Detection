@@ -39,7 +39,7 @@ Step-by-Step Guide
 Clone the Repository  
 
 Bash  
-git clone https://github.com/your-username/child-mortality-detection.git  
+git clone https://github.com/Kammari-Sushma/child-mortality-detection.git  
 cd child-mortality-detection  
 Install Dependencies  
 
